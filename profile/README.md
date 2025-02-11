@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f33aeab7-76f7-47d3-9e0b-08ddd6a03a0e">
-  <img src="https://github.com/user-attachments/assets/26367c68-25c4-4d2d-86be-a9274df98739">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://s3.bmp.ovh/imgs/2025/02/12/bca83e672439000a.png">
+  <img src="https://s3.bmp.ovh/imgs/2025/02/12/4cf980fe05dda385.png">
+</picture>
   <h1>MewBaka 笨猫</h1>
-  <p>自2025.1.3起，新LOGO正式启用</p>
+  <a href="https://space.bilibili.com/3546731419535895"><img src="https://img.shields.io/badge/关注我们的BiliBili-white?logo=bilibili"></a>
+  <a href="https://mewbakateam.itch.io"><img src="https://img.shields.io/badge/我们的itch.io-white?logo=itch.io"></a>
   <hr>
   <h3>简介</h3>
   <p>MewBaka团队于2024.7.1创立，主要制作视觉小说类游戏</p>
