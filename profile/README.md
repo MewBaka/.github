@@ -17,7 +17,7 @@
   <a href="https://github.com/MewBaka/OtherSidePROJECT">侧面PROJECT - OtherSidePROJECT（2025.11上线）</a><br><br>
   <a href="https://github.com/MewBaka/NarraLeaf-Demo">BUG与猫耳不可兼得！ - No Way to Keep BUGs and Cat Ears!（2025.5上线）</a><br><br>
   <b>视觉小说周边产品</b><br>
-  <a href="https://github.com/narralef">NarraLeaf - 视觉小说引擎（2025.5上线）</a><br><br>
+  <a href="https://github.com/narraleaf">NarraLeaf - 视觉小说引擎（2025.5上线）</a><br><br>
   <a href="https://github.com/mewbaka/seeseeyournovel">视奸Ta的小说! - SeeSeeYourNovel!（已上线）</a><br><br>
   <hr>
   <p>您可通过 team@mewbaka.top 联系我们</p>
