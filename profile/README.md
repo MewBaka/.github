@@ -14,7 +14,7 @@
   <hr>
   <h3>产品</h3>
   <b>视觉小说游戏</b><br>
-  <a href="https://github.com/MewBaka/OtherSidePROJECT">侧面PROJECT - OtherSidePROJECT（2025.11上线）</a><br><br>
+  <a href="https://github.com/MewBaka/OtherSidePROJECT">侧面PROJECT - OtherSidePROJECT（2026上线）</a><br><br>
   <a href="https://github.com/MewBaka/NarraLeaf-Demo">BUG与猫耳不可兼得！ - No Way to Keep BUGs and Cat Ears!（2025.5上线）</a><br><br>
   <b>视觉小说周边产品</b><br>
   <a href="https://github.com/narraleaf">NarraLeaf - 视觉小说引擎（2025.5上线）</a><br><br>
